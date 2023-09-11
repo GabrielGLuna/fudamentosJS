@@ -17,5 +17,6 @@ console.log(texto.toUpperCase());
 console.log(texto.toLowerCase());
 console.log(texto.charAt(5))
 console.log(texto.endsWith('s'));
-console.log(texto.includes('es'));
+console.log(texto.includes('to'));
 console.log(texto.length);
+console.log('*'.repeat(10));
