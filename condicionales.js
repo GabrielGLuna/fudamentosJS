@@ -78,7 +78,7 @@ if(username){
 }
 console.log(Defaultname);
 
+username = 'Peter';
 let defaultname = username || 'Stranger';
-
 console.log(defaultname);
 
