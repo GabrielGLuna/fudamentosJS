@@ -1,0 +1,27 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(2,50%);
+    
+}
+#formulario{
+background-color: bisque;
+width: 50%;
+text-align: center;
+justify-content: center;
+align-items: center;
+padding: 5%;
+}
+#formulario textarea{
+border: none;    
+text-align: center;
+align-items: center;
+}
+#formulario button{
+    margin: 1%;
+}
